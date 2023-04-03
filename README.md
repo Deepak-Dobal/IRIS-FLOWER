@@ -29,7 +29,7 @@ Four features were measured from each sample (in centimetres):
 
 4-Width of the petals
 
-
+# Steps Followed
 
 1-The program takes data from the load_iris() function available in sklearn module.
 
