@@ -43,10 +43,15 @@ Four features were measured from each sample (in centimetres):
 
 
 # The accuracy of each model is reported as follows
+
 Logistic Regression: 97.0% 
+
 Decision Tree: 97.0% 
+
 Random Forest: 97.0% 
+
 SVM: 97.0% 
+
 
 The Iris flower dataset is a well-known and relatively small dataset, with only four input features and three target classes. Achieving high accuracy on this dataset is relatively easy for most machine learning algorithms, but the relative performance of different algorithms on this dataset can still provide useful insights into their strengths and weaknesses.**
 
